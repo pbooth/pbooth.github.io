@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://pbooth.github.io/pbooth/sitemap.xml 
